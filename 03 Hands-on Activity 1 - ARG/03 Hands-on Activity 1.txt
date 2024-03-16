@@ -1,0 +1,5 @@
+Using NetBeans, create three (3) linked lists named songs, artists, and playlist. You may refer to the sample codes in this module. 
+Add five (5) song titles to the first linked list then add the five (5) singers/bands of those songs to the second linked list.
+Combine the first two (2) linked lists and add each combination to the third linked list, which is playlist.
+Display the content of the three (3) linked lists in separate lines. See sample output below.
+Upload the .java file and a screenshot of your output.

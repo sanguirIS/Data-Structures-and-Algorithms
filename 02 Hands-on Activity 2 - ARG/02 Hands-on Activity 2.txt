@@ -1,0 +1,13 @@
+1. Using this online IDE, create a Python script with a recursive function to display the sum of the first n integers, where n is entered by the user. There is no need to create a class similar to how Java works. 
+
+2. Name your function find_sum. 
+
+3. Upload the .py file and a screenshot of your output.
+
+Sample output:
+
+Enter a number: 5
+
+The sum of the first 5 integers is 15.
+
+Explanation: Because the user entered 5, the first 5 integers are added. 1 + 2 + 3 + 4 + 5 = 15.

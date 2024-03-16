@@ -1,0 +1,29 @@
+1. Create a folder named LastName_FirstName in your local drive. (ex. Reyes_Mark)
+2. Using NetBeans, create a Java project named StudentList. Set the project location to your own folder.
+3. Import Scanner, Map, and HashMap from the java.util package.
+4. Create an empty hash map named students.
+5. The output shall:
+5.1. Ask three (3) of your classmates to enter their student number (key) and first name (value).
+5.2. Display the keys and values of the map.
+5.3. Delete the mapping of the third entry.
+5.4. Enter your student number and first name. This would be the new third entry.
+5.5. Display the entries in separate lines.
+6. Create a Python script that meets the same specifications. Feel free to use lists to store input.
+7. Save the script as student_list.py to your folder.
+Sample output:
+Enter student number 1: 2018-0004
+Enter first name 1: Mark
+Enter student number 2: 2018-0017
+Enter first name 2: Nika
+Enter student number 3: 2018-0134
+Enter first name 3: Mairo
+Student List:
+2018-0004 Mark
+2018-0017 Nika
+2018-0134 Mairo
+Enter your student number: 2018-0046
+Enter your first name: Marco
+Student List:
+2018-0004 Mark
+2018-0017 Nika
+2018-0046 Marco

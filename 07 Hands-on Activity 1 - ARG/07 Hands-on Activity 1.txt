@@ -1,0 +1,24 @@
+1. Create a folder named LastName_FirstName on your local drive. (ex. Reyes_Mark)
+2. Using NetBeans, create a Java project named Greeting. Set the project location to your own folder.
+3. Import Scanner and Priority Queue from the java.util package.
+4. Create one (1) PriorityQueue object named nicknames.
+5. The output shall do the following:
+5.1. Ask the user to input the nicknames of four (4) of his/her classmates.
+5.2. Ask the user to press H to say "Hi" to each of them.
+5.3. Display Hi and the classmate's nickname (Ex. Hi Nika!) whenever the user presses H, and Done saying hi when the queue gets empty.
+Sample output:
+Enter the nicknames of 4 of your classmates:
+Nika
+Berlin
+Mark
+Kae
+Press H to say Hi to each of them. H
+Hi Berlin
+H
+Hi Kae
+H
+Hi Mark
+H
+Hi Nika
+H
+Done saying Hi

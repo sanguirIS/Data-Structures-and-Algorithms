@@ -1,0 +1,27 @@
+Procedure:
+1. Create a folder named LastName_FirstName in your local drive. (ex. Reyes_Mark)
+2. Using NetBeans, create a Java project named MovieTime. Set the project location to your own folder.
+3. Import Scanner, Queue, and LinkedList from the java.util package.
+4. Create two (2) Queue objects named movies and snacks.
+5. The output shall:
+5.1. Ask the user to input three (3) movies that s/he would like to watch in a cinema.
+5.2. Ask the user to input three (3) snacks or beverages that s/he would like to eat or drink while watching these movies.
+5.3. Display all the movies and snacks in separate lines.
+5.4. Ask the user to type S whenever s/he is done eating or drinking a snack.
+5.5. Display the snacks remaining each time S is pressed and "No more snacks" when all snacks are eaten.
+6. Convert your code into a Python script.
+7. Save the script as movie_time.py to your folder.
+Sample output in Python:
+Enter movie 1 of 3: The Conjuring 3
+Enter movie 2 of 3: Fast & Furious 9
+Enter movie 3 of 3: Godzilla vs. Kong
+Enter snack 1 of 3: Popcorn
+Enter snack 2 of 3: Cheesedog
+Enter snack 3 of 3: Milk tea
+Movies to watch are: deque (['The Conjuring 3', 'Fast & Furious 9', 'Godzilla vs. Kong'])
+Snacks available are: deque (['Popcorn', 'Cheesedog', 'Milk tea']) Press S each time you finish a snack.
+S
+deque (['Cheesedog', 'Milk tea']) S
+deque(['Milk tea'])
+S
+No more snacks

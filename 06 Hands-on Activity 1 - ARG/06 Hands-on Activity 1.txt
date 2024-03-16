@@ -1,0 +1,15 @@
+Procedure:
+1. Create a folder named LastName_FirstName in your local drive. (ex. Reyes_Mark)
+2. Using NetBeans, create a Java project named HtmlTree. Set the project location to your own folder.
+Part 1 (Week 8)
+3. Create and display a JTree based on the given tree figure. Refer to 06 Handout 1 for sample codes.
+Part 2 (Week 9)
+4. Using Java methods and println(), enumerate the following:
+4.1. Root node
+4.2. Parent nodes
+4.3. Siblings
+4.4. One-level subtrees
+4.5. Nodes per level
+4.6. Depth
+4.7. Degree of each one-level subtree
+4.8. List of nodes based on breadth-first, preorder, and postorder

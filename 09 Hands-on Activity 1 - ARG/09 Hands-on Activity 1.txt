@@ -1,0 +1,10 @@
+1. Create a folder named LastName_FirstName in your local drive. (ex. Reyes_Mark)
+2. Using NetBeans, create a Java project named AdjacencyList. Set the project location to your own folder.
+3. Create an adjacency list based on the given graph.
+B
+C
+D
+A
+E
+F
+G

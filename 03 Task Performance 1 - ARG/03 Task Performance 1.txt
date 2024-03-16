@@ -1,0 +1,18 @@
+Instructions
+Using NetBeans, perform the following. (2 items x 25 points)
+
+1. Convert one (1) sample Python script in 02 Handout 1 into Java code. The first letter of your first name will be the basis of your assigned recursion type.
+
+First Names	Recursion Type
+A-F	Linear recursion
+G-L	Tail recursion
+M-R	Binary recursion
+S-Z	Mutual recursion
+2. Create and print a linked list with four (4) elements. The first letter of your last name will be the basis of the required values for your linked list.
+
+Last Names	Values
+A-E	Ice cream flavors
+F-J	Cartoon/anime characters
+K-O	Favorite mobile apps
+P-S	Favorite movie/game characters
+T-Z	Dream gadgets

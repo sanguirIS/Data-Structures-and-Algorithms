@@ -1,0 +1,25 @@
+1. Create a folder named LastName_FirstName in your local drive. (ex. Reyes_Mark)
+2. Using NetBeans, create a Java project named BirthMonth. Set the project location to your own folder.
+3. Import Scanner, Set, HashSet, and Collections from the java.util package.
+4. Create empty hash sets named group1, group2, and self.
+5. The output shall:
+5.1. Ask six (6) of your classmates to enter their birth month. The first three (3) values shall be added to the group1 set and the remaining to group2.
+5.2. Display the values entered by each group.
+5.3. Ask you to type your birth month, which is to be stored to the set named self.
+5.4. Show the union, intersection, and difference based on the two (2) groups.
+5.5. Display a message to tell whether you have the same birth month with any of your classmates.
+6. Convert your code into a Python script.
+7. Save the script as birth_month.py to your folder.
+Sample output:
+Enter birth month 1: March
+Enter birth month 2: April
+Enter birth month 3: May
+Enter birth month 1: June
+Enter birth month 2: May
+Enter birth month 3: July
+Group 1: {'April', 'March', 'May'} Group 2: {'July', 'May', 'June'}
+Enter your birth month: March
+Union: {'April', 'May', 'July', 'March', 'June'}
+Intersection: {'May'}
+Difference: {'April', 'March'}
+You have the same birth month with one of your classmates.
